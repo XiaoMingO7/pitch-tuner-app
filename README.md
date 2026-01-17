@@ -4,7 +4,7 @@
 
 它利用 Web Audio API 的强大功能，提供高精度的实时音高追踪、音频文件离线分析以及伴奏跟唱功能，专为音乐练习者和开发者设计。
 
-*(建议：在此处替换为您实际的应用截图)*
+![Pitch Tuner Pro Screenshot](./screenshot.png)
 
 ## ✨ 主要功能 (Features)
 
@@ -100,3 +100,7 @@ pitch-tuner-app/
 ## 🤝 贡献 (Contributing)
 
 欢迎提交 Issue 或 Pull Request！如果您有更好的音高检测算法优化建议，请随时联系。
+
+## 支持 (Supporting)
+
+![Supporting](./supporting.png)
